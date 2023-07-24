@@ -1,1 +1,9 @@
 .DS_STORE
+outputs/*
+notebooks/outputs/*
+notebooks/baby_mapper_mapper/outputs/*
+notebooks/.ipynb_checkpoints
+
+!outputs/.gitkeep
+!notebooks/outputs/.gitkeep
+!notebooks/baby_mapper_mapper/outputs/.gitkeep
